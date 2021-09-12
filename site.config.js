@@ -12,13 +12,13 @@ module.exports = {
   author: 'Nathaniel Louis Tisuela',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'About Nathan!',
   socialImageTitle: 'Tisuela',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
   twitter: 'ntisuela',
-  github: 'nananananate',
+  github: 'tisuela',
   linkedin: 'tisuela',
 
   // default notion icon and cover images for site-wide consistency (optional)
