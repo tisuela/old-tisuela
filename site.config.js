@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Nathaniel Louis Tisuela',
-  domain: 'tisuela.com',
+  domain: 'www.tisuela.com',
   author: 'Nathaniel Louis Tisuela',
 
   // open graph metadata (optional)
